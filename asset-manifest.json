@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/formWizard-React-app/static/css/main.66b599dc.css",
+    "main.js": "/formWizard-React-app/static/js/main.474f11a7.js",
+    "static/js/453.a3da0d18.chunk.js": "/formWizard-React-app/static/js/453.a3da0d18.chunk.js",
+    "index.html": "/formWizard-React-app/index.html",
+    "main.66b599dc.css.map": "/formWizard-React-app/static/css/main.66b599dc.css.map",
+    "main.474f11a7.js.map": "/formWizard-React-app/static/js/main.474f11a7.js.map",
+    "453.a3da0d18.chunk.js.map": "/formWizard-React-app/static/js/453.a3da0d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66b599dc.css",
+    "static/js/main.474f11a7.js"
+  ]
+}
